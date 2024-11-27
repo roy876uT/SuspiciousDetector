@@ -1,0 +1,13 @@
+package com.cubelogic.suspiciousDetector;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SuspiciousDetectorApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SuspiciousDetectorApplication.class, args);
+	}
+
+}
